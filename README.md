@@ -1,5 +1,5 @@
 # MusicCognition
-An analysis of music cognition. 
+Self Organising Maps models of Music Cognition
 
 ## About ## 
 In [1], a two-layer self organising map model was trained to recognize chords and keys in western music.
